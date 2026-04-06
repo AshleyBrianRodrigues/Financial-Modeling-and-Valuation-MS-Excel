@@ -15,7 +15,7 @@ Each folder contains a practice example model built first to understand the fram
 **Model:** Discounted Cash Flow (DCF) Valuation
 **Company:** The Coca-Cola Company (KO)
 
-Built a full DCF model projecting 5-year free cash flows for Coca-Cola. Calculated WACC of ~6.9% using the CAPM framework and arrived at an implied equity value of ~$39.5B (~$39.5/share) using a blended terminal value approach — both Exit Multiple Method and Perpetuity Growth Method. Ran scenario analysis to stress-test valuation under different growth and discount rate assumptions.
+Built a full DCF model projecting 5-year free cash flows for Coca-Cola. Calculated WACC of ~6.9% using the CAPM framework and arrived at an implied equity value of ~$39.5B ($39.5/share) using a blended terminal value approach — both Exit Multiple Method and Perpetuity Growth Method. Ran scenario analysis to stress-test valuation under different growth and discount rate assumptions.
 
 Key Outputs:
 - WACC: ~6.9%
