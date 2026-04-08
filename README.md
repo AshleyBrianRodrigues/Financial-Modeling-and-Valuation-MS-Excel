@@ -1,6 +1,6 @@
-# Financial Modeling and Valuation — MS Excel
+# Financial Modeling and Valuation - MS Excel
 
-This repository showcases structured financial modeling and valuation projects built in Excel across real companies and corporate finance scenarios. Models cover DCF valuation, Comparable Company Analysis (Comps), 3-Statement Financial Modeling, and Capital Budgeting — following professional methodologies used in investment banking and corporate finance.
+This repository showcases structured financial modeling and valuation projects built in Excel across real companies and corporate finance scenarios. Models cover DCF valuation, Comparable Company Analysis (Comps), 3-Statement Financial Modeling, and Capital Budgeting, following professional methodologies used in investment banking and corporate finance.
 
 Each folder contains a practice example model built first to understand the framework, followed by an independent model applied to a real company.
 
@@ -10,12 +10,12 @@ Each folder contains a practice example model built first to understand the fram
 
 ---
 
-### 1. DCF Valuation — Coca-Cola
+### 1. DCF Valuation - Coca-Cola
 
 **Model:** Discounted Cash Flow (DCF) Valuation
 **Company:** The Coca-Cola Company (KO)
 
-Built a full DCF model projecting 5-year free cash flows for Coca-Cola. Calculated WACC of ~6.9% using the CAPM framework and arrived at an implied equity value of ~$39.5B ($39.5/share) using a blended terminal value approach — both Exit Multiple Method and Perpetuity Growth Method. Ran scenario analysis to stress-test valuation under different growth and discount rate assumptions.
+Built a full DCF model projecting 5-year free cash flows for Coca-Cola. Calculated WACC of ~6.9% using the CAPM framework and arrived at an implied equity value of ~$39.5B ($39.5/share) using a blended terminal value approach - both Exit Multiple Method and Perpetuity Growth Method. Ran scenario analysis to stress-test valuation under different growth and discount rate assumptions.
 
 Key Outputs:
 - WACC: ~6.9%
@@ -25,12 +25,12 @@ Key Outputs:
 
 ---
 
-### 2. Comparable Company Analysis (Comps) — Adidas
+### 2. Comparable Company Analysis (Comps) - Adidas
 
 **Model:** Comparable Company Analysis (CCA)
 **Company:** Adidas AG, benchmarked against Nike, Puma, and Under Armour
 
-Conducted a full Comps analysis on Adidas using three valuation multiples — EV/Revenue, EV/EBITDA, and P/E — benchmarked against key peers in the global sportswear sector. Interpreted financial disclosures across all four companies and derived an implied share price range suggesting moderate undervaluation relative to peer medians.
+Conducted a full Comps analysis on Adidas using three valuation multiples - EV/Revenue, EV/EBITDA, and P/E - benchmarked against key peers in the global sportswear sector. Interpreted financial disclosures across all four companies and derived an implied share price range suggesting moderate undervaluation relative to peer medians.
 
 Key Outputs:
 - Multiples Used: EV/Revenue, EV/EBITDA, P/E
@@ -40,10 +40,10 @@ Key Outputs:
 
 ---
 
-### 3. Capital Budgeting — Amazon Warehouse Projects
+### 3. Capital Budgeting - Amazon Warehouse Projects
 
 **Model:** Capital Budgeting Analysis (NPV, IRR, Payback Period)
-**Company:** Amazon — Fulfillment Center vs. Micro-Warehouse Hub
+**Company:** Amazon - Fulfillment Center vs. Micro-Warehouse Hub
 
 Evaluated two competing Amazon warehouse investment proposals using NPV, IRR, and Payback Period at an 8% discount rate. Both projects showed strong return profiles; the larger Fulfillment Center was recommended based on significantly higher NPV despite similar IRR.
 
