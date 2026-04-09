@@ -102,5 +102,5 @@ Key Outputs:
 
 BCom undergraduate at St. Joseph's College of Commerce, Bengaluru. Built this portfolio independently to apply corporate finance and valuation concepts to real companies beyond coursework.
 
-ashleybrianrodrigues2006@gmail.com  
+Email: ashleybrianrodrigues2006@gmail.com  
 LinkedIn: https://linkedin.com/in/ashleybrianr
