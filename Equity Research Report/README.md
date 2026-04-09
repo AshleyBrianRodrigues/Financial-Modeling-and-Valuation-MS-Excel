@@ -1,6 +1,5 @@
 Comparative equity research report analyzing TCS vs Infosys across 20+ financial ratios - covering profitability, liquidity, solvency, efficiency, and valuation metrics, with investment recommendations. Data sourced from IFRS Consolidated Annual Reports FY2023-24.
 
-Note: This folder also contains a sample example file with imaginary figures, used as a template to build and structure the final report.
 
 Equity Research Report - TCS vs Infosys
 Model: Comparative Equity Research & Financial Ratio Analysis
