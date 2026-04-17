@@ -88,6 +88,8 @@ Key Outputs:
 > AI Disclosure: AI tools were used to assist with data organisation and formatting. All financial figures are sourced directly from official annual reports. Analysis and recommendations represent the author's own judgement.
 
 ---
+### 6. India Financial Scandals Case Studies
+A comprehensive 20-case-study document covering India's most impactful financial frauds and corporate governance failures — including Harshad Mehta, Nirav Modi, Satyam, IL&FS, DHFL, 2G Spectrum, Coalgate, and more. Each case covers the background, modus operandi, financial impact, and key regulatory lessons. Built to complement the financial models in this repo with real-world context on how fraud, overleveraging, and weak governance destroy value.
 
 ## Tools & Skills
 
