@@ -4,7 +4,7 @@ This repository showcases structured financial modeling and valuation projects b
 
 Each folder contains a practice example model built first to understand the framework, followed by an independent model applied to a real company.
 
-Certifications: https://drive.google.com/file/d/1epoY6B8j81cT3oYE1USzLfp4s61uYqZ_/view?usp=sharing 
+Certifications: [https://drive.google.com/file/d/1epoY6B8j81cT3oYE1USzLfp4s61uYqZ_/view?usp=sharing](url) 
 
 (download the specific excel file to view the valuation model)
 ---
