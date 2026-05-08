@@ -80,10 +80,12 @@ Built a full financial analysis and valuation model on Infosys covering FY 2020�
 Key Outputs:
 
 
-WACC: ~11.5%
-Valuation Methods: DCF, EV/EBITDA, P/E, Book Value, Replacement Cost
-5-Year Forecast: FY 2025–2029 with explicit assumption drivers
-Sensitivity Analysis: Value per share across WACC (8–12%) × growth rate (3–6%)
+Key Outputs:
+- WACC: ~11.5%
+- Valuation Methods: DCF, EV/EBITDA, P/E, Book Value, Replacement Cost
+- 5-Year Forecast: FY 2025–2029 with explicit assumption drivers
+- Sensitivity Analysis: Value per share across WACC (8–12%) × growth rate (3–6%)
+
 
 Verdict: Fairly valued to slightly undervalued vs. peer benchmarks (TCS, Wipro, HCL Tech)
 14 sheets | 460+ live Excel formulas | fully linked model
