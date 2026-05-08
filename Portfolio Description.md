@@ -124,7 +124,6 @@ A comprehensive 20-case-study document covering India's most impactful financial
 - Valuation Methodologies — DCF, Comps, Capital Budgeting, Equity Research
 - Financial Statement Analysis — Ratio Analysis, Common-Size Analysis, 3-Statement Modeling
 - Corporate Finance Concepts — WACC, Terminal Value, EV Multiples, ROE, ROCE
-- Python (openpyxl) — Workbook automation and formatting
 
 ---
 
