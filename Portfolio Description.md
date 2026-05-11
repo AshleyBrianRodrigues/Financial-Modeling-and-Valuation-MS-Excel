@@ -9,6 +9,7 @@ Certifications: [View Certificates (PDF) →](https://drive.google.com/file/d/1e
 Each project folder includes a dedicated README file with a brief overview of the model and analysis performed.
 Selected projects also contain preview screenshots showcasing key sections and outputs of the financial model.
 (download the specific excel file to view the valuation model in detail)
+
 ---
 
 ## Models Included
