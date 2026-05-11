@@ -1,3 +1,7 @@
+## Model Preview
+![Financial Analysis & Valuation - Infosys Limited](forecast.png)
+![Financial Analysis & Valuation - Infosys Limited](sensitivity.png)
+
 Financial Analysis & Valuation — Infosys Limited
 
 Model: Financial Statement Analysis & Valuation
