@@ -1,3 +1,8 @@
+## Model Preview
+![Three Statement Models](income-statment.png)
+![Three Statement Models](balance-sheet.png)
+![Three Statement Models](cashflow-statment.png)
+
 This 3-statement financial model integrates the Income Statement, Balance Sheet, and Cash Flow Statement into a dynamically linked structure. It includes forecasting assumptions, working capital calculations, depreciation schedules, and financing activities, ensuring that all statements balance automatically. The model provides a foundation for valuation, scenario analysis, and further extensions like DCF and LBO modeling.
 
 Integrated 3-Statement Financial Model
