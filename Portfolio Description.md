@@ -6,7 +6,9 @@ Each folder contains a practice example model built first to understand the fram
 
 Certifications: [View Certificates (PDF) →](https://drive.google.com/file/d/1epoY6B8j81cT3oYE1USzLfp4s61uYqZ_/view?usp=sharing) 
 
-(download the specific excel file to view the valuation model)
+Each project folder includes a dedicated README file with a brief overview of the model and analysis performed.
+Selected projects also contain preview screenshots showcasing key sections and outputs of the financial model.
+(download the specific excel file to view the valuation model in detail)
 ---
 
 ## Models Included
