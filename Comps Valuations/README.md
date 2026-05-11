@@ -1,3 +1,6 @@
+## Model Preview
+![Comps Valuations](comps.png)
+
 Comparable Company Analysis (Comps) model benchmarking Adidas against Nike, Puma, and Under Armour using EV/Revenue, EV/EBITDA, and P/E multiples to derive an implied share price range.
 
 Note: This folder also contains a sample example file with imaginary figures, used as a template to build and structure the final report.
