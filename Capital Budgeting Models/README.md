@@ -1,6 +1,6 @@
 ## Model Preview
 
-![Capital Budgeting Model](cap budgeting.png)
+![Capital Budgeting Models](cap budgeting.png)
 
 This model evaluates two Nike investment projects, with Project 1 being significantly larger in scale than Project 2. Both projects are assessed using NPV, IRR, and Payback Period to determine financial viability and potential value creation. It includes projected cash flows, discount rate assumptions, and a comparative analysis of project outcomes. Designed to illustrate decision-making in multi-project capital budgeting scenarios.
 
